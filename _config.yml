@@ -14,11 +14,13 @@ banner-title: # add banner title
 banner-desc: # add banner description
 
 # Author settings
-author-pic: face.jpg # your photo
-author-name: # your name
+author-pic1: face1.jpg # your photo
+author-pic2: face2.jpg
+author-name1: Sivajeet Chand
+author-name2: Kamal Padhan
 about-author: # about author
-email: your-email@domain.com # your email
-phone: (496)-169-6557 # your pnone number
+email: sivajeetchand@gmail.com # your email
+phone: (+91)9937311255 # your pnone number
 website: https://dwayne.example.com # you website
 
 # Social link
